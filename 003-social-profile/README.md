@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/yoranguy/mentorfrontend-social-profile](https://github.com/yoranguy/mentorfrontend-social-profile)
+- Solution URL: [https://github.com/yoranguy/mentorfrontend/tree/main/003-social-profile)
 - Live Site URL: [https://mentorfrontend-social-profile.vercel.app/](https://mentorfrontend-social-profile.vercel.app/)
 
 ## My process
