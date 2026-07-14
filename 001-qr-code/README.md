@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/yoranguy/mentorfrontend/tree/main/001-qr-code/](https://github.com/yoranguy/frontendmentor/tree/main/001-qr-code)
+- Solution URL: [https://github.com/yoranguy/frontendmentor/tree/main/001-qr-code](https://github.com/yoranguy/frontendmentor/tree/main/001-qr-code)
 - Live Site URL: [https://qr-code-snowy-phi.vercel.app/](https://qr-code-snowy-phi.vercel.app/)
 
 ## My process
