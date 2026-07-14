@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/yoranguy/mentorfrontend/tree/main/004-result-summary-component](https://github.com/yoranguy/mentorfrontend/tree/main/004-result-summary-component)
-- Live Site URL: [https://mentorfrontend-result-summary-compo.vercel.app/](https://mentorfrontend-result-summary-compo.vercel.app/)
+- Solution URL: [https://github.com/yoranguy/frontendmentor/tree/main/004-result-summary-component](https://github.com/yoranguy/frontendmentor/tree/main/004-result-summary-component)
+- Live Site URL: [https://frontendmentor-product-preview-card-puce.vercel.app/](https://frontendmentor-product-preview-card-puce.vercel.app/)
 
 ## My process
 
